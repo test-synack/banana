@@ -1,0 +1,1 @@
+[![Infrastructure Tests](https://www.app0.bridgecrew.cloud/badges/github/chaksectest/javascript-basic/general)](https://www.app0.bridgecrew.cloud/link/badge?vcs=github&fullRepo=chaksectest%2FJavascript-basic&benchmark=INFRASTRUCTURE+SECURITY)
